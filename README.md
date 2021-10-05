@@ -11,6 +11,8 @@ two or more of options 1-5. The modeling framework employed stochastic, density-
 
 ## Code
 - <code>banteng.m</code>
-- <code>bantengharvest.R</code>
+- <code>banteng_harvest.R</code>
 
 ## Data
+- exch.txt
+- 
