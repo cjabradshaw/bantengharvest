@@ -10,9 +10,9 @@ How can one manage wildlife under a suite of competing values? In isolation, the
 two or more of options 1-5. The modeling framework employed stochastic, density-regulated matrix population models with life-history parameters derived from (<em>i</em>) allometric relationships (for estimating rmax, generation length, fecundity and densities for a banteng-sized mammal) and (<em>ii</em>) measured vital rates for wild and captive banteng and other <em>Bos</em> spp. For each management option, we present a simple economic analysis that incorporates estimated costs of management implementation and associated profits projected. Results demonstrate that revenue of > AU$200,000 is possible from meat production and safari hunting without compromising long-term population stability or the conservation status of this endangered bovid.
 
 ## Code
-- <code>banteng.m</code>
-- <code>banteng_harvest.R</code>
+- <code>banteng.m</code> (Matlab)
+- <code>banteng_harvest.R</code> (R)
 
 ## Data
 - exch.txt
-- 
+- eycidat.csv
