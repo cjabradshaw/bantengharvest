@@ -1,4 +1,6 @@
 # banteng harvest models
+<img align="right" src="banteng.png" alt="Bos javanicus" width="200" style="margin-top: 20px">
+
 Matlab and R code to estimate offtake effects on banteng (<em>Bos javanicus</em>) populations
 
 Associated with the paper:
